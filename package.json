@@ -1,0 +1,16 @@
+{
+    "name": "nodejs-Mangos-App",
+    "version": "1.0.0",
+    "description": "nodejs app to test docker and its different components",
+    "author": "Usman Ali Maan <devxopsguru@gmail.com>",
+    "license": "GNU",
+    "main": "app.js",
+    "keywords": [
+      "nodejs",
+      "bootstrap",
+      "express"
+    ],
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }
